@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c41925bc.css",
-    "main.js": "/static/js/main.e3b812a7.js",
-    "static/js/787.bc58c241.chunk.js": "/static/js/787.bc58c241.chunk.js",
-    "index.html": "/index.html",
-    "main.c41925bc.css.map": "/static/css/main.c41925bc.css.map",
-    "main.e3b812a7.js.map": "/static/js/main.e3b812a7.js.map",
-    "787.bc58c241.chunk.js.map": "/static/js/787.bc58c241.chunk.js.map"
+    "main.css": "/Cursor-React-Hooks/static/css/main.c41925bc.css",
+    "main.js": "/Cursor-React-Hooks/static/js/main.416126d7.js",
+    "static/js/787.bc58c241.chunk.js": "/Cursor-React-Hooks/static/js/787.bc58c241.chunk.js",
+    "index.html": "/Cursor-React-Hooks/index.html",
+    "main.c41925bc.css.map": "/Cursor-React-Hooks/static/css/main.c41925bc.css.map",
+    "main.416126d7.js.map": "/Cursor-React-Hooks/static/js/main.416126d7.js.map",
+    "787.bc58c241.chunk.js.map": "/Cursor-React-Hooks/static/js/787.bc58c241.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c41925bc.css",
-    "static/js/main.e3b812a7.js"
+    "static/js/main.416126d7.js"
   ]
 }
